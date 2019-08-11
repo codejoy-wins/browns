@@ -1,7 +1,23 @@
 .App {
   text-align: center;
 }
-
+body{
+  background: black;
+  color: orange;
+}
+a{
+  color: orange;
+}
+a:hover{
+  color: rgb(211, 129, 126);
+}
+.widify{
+  width: 100%;
+  /* max-width: 800px; */
+}
+.smallify{
+  height: 30px;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
